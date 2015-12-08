@@ -1,0 +1,8 @@
+1. check for follows
+2. throttle message output(Do this first RIP ban)
+3. add more commands
+4. Integrate json twitch api
+5. Possibly make a GUI later on
+
+https://api.twitch.tv/kraken/channels/codematrix159/follows?direction=DESC&limit=1
+Parse the above url for a recent follow
